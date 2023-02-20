@@ -1,0 +1,26 @@
+1.empty list ---->
+    take element from user and add it to list....
+    list with elements---->
+        loops:
+            for ==> user know how many data
+            while ==> user don't know how many data
+
+2.given number is armstrong or not
+    153=1^3+5^3+3^3=153   , 370 , 371
+    1634=1^4+6^4+3^4+4^4=1634
+
+3.find lcm & hcf
+
+4.fibonacci series 
+    0 1 1 2 3 5 8 13 ...
+
+5.twin no: 
+    123 ==> 1 + 2 + 3 = 6 
+            1 * 2 * 3 = 6 
+
+6.reverse a number 
+    123 <==> 321
+    456 <==> 654
+
+7.palindrome  
+    121
